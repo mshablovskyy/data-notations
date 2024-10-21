@@ -53,5 +53,28 @@
             "Outerwear",
             "Accessories"
         ]
+    },
+    {
+        "name": "JNCO",
+        "founded": 1985,
+        "headquarters": "New York City, USA",
+        "employees": 6000,
+        "products": [
+            "Casual Wear",
+            "Workwear",
+            "Jeans"
+        ]
+    },
+    {
+        "name": "Mango",
+        "founded": 1990,
+        "headquarters": "Pekin, China",
+        "employees": 506000,
+        "products": [
+            "Casual Wear",
+            "Outerwear",
+            "Accessories",
+            "Sportwear"
+        ]
     }
 ]

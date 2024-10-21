@@ -1,0 +1,24 @@
+<transport>
+    <KMK>
+        <tram>
+            <lenght unit="m">20</lenght>
+            <number_of_passangers>120</number_of_passangers>
+            <speed unit="km/h">60</speed>
+            <cost unit="PLN">2</cost>
+        </tram>
+        <bus>
+            <lenght unit="m">15</lenght>
+            <number_of_passangers>80</number_of_passangers>
+            <speed unit="km/h">40</speed>
+            <cost unit="PLN">2</cost>
+        </bus>
+    </KMK>
+    <other>
+        <taxi>
+            <lenght unit="m">5</lenght>
+            <number_of_passangers>4</number_of_passangers>
+            <speed unit="km/h">70</speed>
+            <cost unit="PLN">20</cost>
+        </taxi>
+    </other>
+</transport>
